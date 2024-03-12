@@ -1,2 +1,3 @@
 # mydemo
-this is my first repo
+This is my first git repo
+Author-pradeep
